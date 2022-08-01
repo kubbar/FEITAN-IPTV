@@ -29,6 +29,9 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/RWMn1NG.jpg" group-title="LOCAL CHANNEL", TFC
 http://hdhd.tk/live/Burg2022/Burg2022/23194.ts
 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/k7sbIa1.jpg" group-title="LOCAL CHANNEL", PILIPINAS HD
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/iitiMKd.jpg" group-title="LOCAL CHANNEL", LIVE ONLINE SABONG (OFFLINE)
 https://bit.ly/FEITAN-LIVE-SABONG
 
@@ -352,10 +355,10 @@ https://bit.ly/FEITAN-KBS-WORLD
 
 //RELIGIOUS
 #EXTINF:-1, tvg-logo="https://i.imgur.com/dlA9cvf.jpg" group-title="RELIGIOUS CHANNELS", GCTV
-http://live.lordstreams.co:8080/hamton/hampton/567712.ts
+http://45.32.115.103/live/livestream/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/4cd4uMQ.jpg" group-title="RELIGIOUS CHANNELS", INC TV
-http://live.lordstreams.co:8080/hampton/hampton/567721.ts
+https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/wgJPBEI.jpg" group-title="RELIGIOUS CHANNELS", LIGHT TV
 http://live.lordstreams.co:8080/hampton/hampton/567728.ts
@@ -364,7 +367,10 @@ http://live.lordstreams.co:8080/hampton/hampton/567728.ts
 http://live.lordstreams.co:8080/hampton/hampton/567755.ts
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/llNA1aE.jpg" group-title="RELIGIOUS CHANNELS", SMNI
-http://live.lordstreams.co:8080/hampton/hampton/567742.ts
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/llNA1aE.jpg" group-title="RELIGIOUS CHANNELS", LIFE TV ASIA
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/NtEAVl0.jpg" group-title="RELIGIOUS CHANNELS", TV MARIA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVMariaLIVE/live

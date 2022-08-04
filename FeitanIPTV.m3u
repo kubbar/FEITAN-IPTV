@@ -313,7 +313,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 //MUSIC
 #EXTINF:-1, tvg-logo="https://i.imgur.com/IqsWpz7.jpg" group-title="MUSIC", RJTV
-http://user.scalecdn.co:8080/Ken/Ken/567722.m3u8
+http://user.scalecdn.co:8080/Ken/Ken/567722
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/ldSXcHi.jpg" group-title="MUSIC", MYX
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8

@@ -15,10 +15,10 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/
 https://ydKAaGNBgW.akamaized.net/out/u/3062.mpd
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/HZQABuh.jpg" group-title="LOCAL CHANNEL", NET 25
-http://user.scalecdn.co:8080/live/Ken/Ken/567730.m3u8
+http://user.scalecdn.co:8080/Ken/Ken/567730
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/R7GtAsh.jpg" group-title="LOCAL CHANNEL", IBC 13
-http://user.scalecdn.co:8080/live/Ken/Ken/567720.m3u8
+http://user.scalecdn.co:8080/Ken/Ken/567720
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/hhd8QjJ.jpg" group-title="LOCAL CHANNEL", A2Z
 https://bit.ly/FEITAN-A2Z
@@ -313,7 +313,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 //MUSIC
 #EXTINF:-1, tvg-logo="https://i.imgur.com/IqsWpz7.jpg" group-title="MUSIC", RJTV
-http://user.scalecdn.co:8080/live/Ken/Ken/567722.m3u8
+http://user.scalecdn.co:8080/Ken/Ken/567722
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/ldSXcHi.jpg" group-title="MUSIC", MYX
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8

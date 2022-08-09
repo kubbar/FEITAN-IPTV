@@ -1,0 +1,436 @@
+#EXTM3U
+
+//LOCAL CHANNELS
+#EXTINF:0 tvg-logo="https://i.imgur.com/hhd8QjJ.jpg" group-title="FEITAN: LOCAL CHANNEL", A2Z
+https://bit.ly/FEITAN-A2Z
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/K5eEqKz.jpg" group-title="FEITAN: LOCAL CHANNEL", KAPAMILYA CHANNEL
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/F9u7gsQ.jpg" group-title="FEITAN: LOCAL CHANNEL",IBA SA 5
+https://iptv-sniper.herokuapp.com/localtv.php?channel=8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/orZGgot.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA 7
+https://iptv-sniper.herokuapp.com/localtv.php?channel=5
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/JSLsN7L.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA LIFE TV
+http://user.scalecdn.co:8080/live/Alfred/Alfred/546783.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2QkjBUo.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA PINOY TV
+http://user.scalecdn.co:8080/live/Alfred/Alfred/546784.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/HZQABuh.jpg" group-title="FEITAN: LOCAL CHANNEL", NET 25
+http://user.scalecdn.co:8080/live/Alfred/Alfred/567730.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/R7GtAsh.jpg" group-title="FEITAN: LOCAL CHANNEL", IBC 13
+http://user.scalecdn.co:8080/live/Alfred/Alfred/567719.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/P0iQIp8.jpg" group-title="FEITAN: LOCAL CHANNEL", CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/RWMn1NG.jpg" group-title="FEITAN: LOCAL CHANNEL", TFC
+https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/k7sbIa1.jpg" group-title="FEITAN: LOCAL CHANNEL", PILIPINAS HD
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w612733615_b300000_sleng.m3u8
+
+//MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k5Gw6hw.jpg" group-title="FEITAN: MOVIES",CINEMA ONE
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XUpH8cQ.jpg" group-title="FEITAN: MOVIES",PBO
+https://iptv-sniper.herokuapp.com/localtv.php?channel=12
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PH4NyUg.jpg" group-title="FEITAN: MOVIES",CINE MO!
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vceKcrg.jpg" group-title="FEITAN: MOVIES",TMC
+https://iptv-sniper.herokuapp.com/localtv.php?channel=9
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/tZAWEDS.jpg" group-title="FEITAN: MOVIES", CELESTIAL MOVIES PINOY
+http://user.scalecdn.co:8080/live/Alfred/Alfred/567699.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/1d417WX.jpg" group-title="FEITAN: MOVIES", TAP MOVIES
+https://rotf.lol/FEI-TAP-MOVIES
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/JIzNTWw.jpg" group-title="FEITAN: MOVIES", TAP ACTION FLIX
+https://bit.ly/FEITAN-TAP-ACTION-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQTqQzT.jpg" group-title="FEITAN: MOVIES", MOVIETIME
+http://bronzetv.xyz/play/live.php?mac=00:1A:79:63:fe:96&stream=291921&extension=ts&play_token=N67fsHJV6c
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZlkC2tE.jpg" group-title="FEITAN: MOVIES",HBO
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8cfb499a75630eca1d50e584f58e9310&key=0a11d637ad2eaa1f7a75f42b7fc72b30
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lZuBTyC.jpg" group-title="FEITAN: MOVIES",HBO FAMILY
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2d8d9b7ed94fad6e56f1642504605b10&key=cf881ed230797c106f8e6ac843d797f3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R17c3G5.jpg" group-title="FEITAN: MOVIES",HBO HITS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8yst8H.jpg" group-title="FEITAN: MOVIES",HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xKP9vwa.jpg" group-title="FEITAN: MOVIES",CINEMAX
+http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KckpxQ.jpg" group-title="FEITAN: MOVIES",BOO
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bb5e8d918097e067ab1bc7e3a9e68410&key=dbda57d3de69f5e4b78ff2cc73d8a51a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1QagHTD.jpg" group-title="FEITAN: MOVIES",HITS MOVIES
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=064b474a4851760b3ac81a7e89437410&key=18eea3fcbfb8313f46d1a2c45a573e02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pcc4szQ.jpg" group-title="FEITAN: MOVIES",CELESTIAL MOVIES
+http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbNgb23.jpg" group-title="FEITAN: MOVIES",SHOWCASE MOVIES
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ee4sx80.jpg" group-title="FEITAN: MOVIES",TVN MOVIES
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2ZCTWq3.jpg" group-title="FEITAN: MOVIES",CINEMAWORLD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Waultcq.jpg" group-title="FEITAN: MOVIES",THRILL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uzL79dt.jpg" group-title="FEITAN: MOVIES",GALAXY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PefSObm.jpg" group-title="FEITAN: MOVIES",GALAXY PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FHJFXVO.jpg" group-title="FEITAN: MOVIES",FOX MOVIES
+http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z8rJys8jNA_A3FxctHaoUkP9AQWgTTYQLI7Cu_t8HFjREzAmDEVbA1CqEsVOiWzutQ
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NOlZF4e.jpg" group-title="FEITAN: MOVIES",&FLIX
+http://keep-this-private.xyz:8880/play/live.php?mac=00:1A:79:00:32:02&stream=862616&extension=ts&play_token=UggOLpOrUC
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/I4rS20Y.jpg" group-title="FEITAN: MOVIES",&PRIVE
+http://keep-this-private.xyz:8880/play/live.php?mac=00:1A:79:00:32:02&stream=862618&extension=ts&play_token=h89Mu3pHqW
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/aEYOKyO.jpg" group-title="FEITAN: MOVIES",MN+
+http://keep-this-private.xyz:8880/play/live.php?mac=00:1A:79:00:32:02&stream=862682&extension=ts&play_token=tSLG7eMleW
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/GTb4lIG.jpg" group-title="FEITAN: MOVIES",MNX
+http://keep-this-private.xyz:8880/play/live.php?mac=00:1A:79:00:32:02&stream=862683&extension=ts&play_token=brbamves1y
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/CAC6r1C.jpg" group-title="FEITAN: MOVIES",MOVIES NOW
+http://keep-this-private.xyz:8880/play/live.php?mac=00:1A:79:00:32:02&stream=862687&extension=ts&play_token=uM5hiKNAIe
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rvqd9WV.jpg" group-title="FEITAN: MOVIES",STAR MOVIES
+http://keep-this-private.xyz:8880/play/live.php?mac=00:1A:79:00:32:02&stream=862740&extension=ts&play_token=dWzvgsZnoB
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/kVAe3hI.jpg" group-title="FEITAN: MOVIES",STAR MOVIES SELECT
+http://keep-this-private.xyz:8880/play/live.php?mac=00:1A:79:00:32:02&stream=862741&extension=ts&play_token=k2nmWwea9F
+
+
+//SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D82rNDE.jpg" group-title="FEITAN: SPORTS",ONE SPORTS+
+http://hdhd.tk/live/Irons2022/Irons2022/23204.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMvrFn2.jpg" group-title="FEITAN: SPORTS",ONE SPORTS
+https://iptv-sniper.herokuapp.com/localtv.php?channel=50
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gvop7Yi.jpg" group-title="FEITAN: SPORTS",TAP SPORTS
+https://iptv-sniper.herokuapp.com/localtv.php?channel=31
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q7RqbbZ.jpg" group-title="FEITAN: SPORTS",FIGHT SPORTS
+https://iptv-sniper.herokuapp.com/localtv.php?channel=18
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TiAyjUE.jpg" group-title="FEITAN: SPORTS",NBA TV
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=115738&extension=ts&play_token=1abiaJReWZ
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/SV9zY4t.jpg" group-title="FEITAN: SPORTS", NBA TV CANADA
+http://live.lordstreams.co:8080/Barnes1/Barnes1/3092
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/sxVB1g6.jpg" group-title="FEITAN: SPORTS", PBA RUSH (LIVE ONLY)
+https://live.chimerako.com/hls/pba_stream_480.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/P5kTXCa.jpg" group-title="FEITAN: SPORTS", UAAP VARSITY CH
+https://bit.ly/FEITAN-UAAP-VARSITY-CH
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/DvE6FdD.jpg" group-title="FEITAN: SPORTS", PINOY XTREME
+http://live.lordstreams.co:8080/live/Barnes1/Barnes1/567736.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/uHQ2dDj.jpg" group-title="FEITAN: SPORTS", HORSE RACING
+http://live.lordstreams.co:8080/live/Barnes1/Barnes1/567718.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7InUG8.jpg" group-title="FEITAN: SPORTS",EGG NETWORK
+http://210.210.155.35/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/km1o3L1.jpg" group-title="FEITAN: SPORTS",SPOTV
+https://bit.ly/FEITAN-SPOTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/984OYEO.jpg" group-title="FEITAN: SPORTS",SPOTV 2
+https://bit.ly/FEITAN-SPOTV-2
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5zzckd.jpg" group-title="FEITAN: SPORTS",WWE NETWORK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+
+//EDUCATIONAL & DOCUMENTARY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4tVaVI3.jpg" group-title="FEITAN: EDUCATIONAL AND DOCUMENTARY",HISTORY
+https://iptv-sniper.herokuapp.com/localtv.php?channel=53
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xjtz2zM.jpg" group-title="FEITAN: EDUCATIONAL AND DOCUMENTARY",ANIMAL PLANET
+https://iptv-sniper.herokuapp.com/localtv.php?channel=49
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3iLAU3.jpg" group-title="FEITAN: EDUCATIONAL AND DOCUMENTARY",NATIONAL GEOGRAPHIC
+https://iptv-sniper.herokuapp.com/localtv.php?channel=50
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K15zdln.jpg" group-title="FEITAN: EDUCATIONAL AND DOCUMENTARY",NATIONAL GEOGRAPHI WILD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=51
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ql16UNi.jpg" group-title="FEITAN: EDUCATIONAL AND DOCUMENTARY",KNOWLEDGE CHANNEL
+https://iptv-sniper.herokuapp.com/localtv.php?channel=54
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhLe54Z.jpg" group-title="FEITAN: EDUCATIONAL AND DOCUMENTARY",DISCOVERY
+https://iptv-sniper.herokuapp.com/localtv.php?channel=45
+
+
+//NEWS & INFORMATION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFOYBXJ.jpg" group-title="FEITAN: NEWS AND INFORMATION",ANC
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9ZTaTB.jpg" group-title="FEITAN: NEWS AND INFORMATION",GTV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u0gp2fH.jpg" group-title="FEITAN: NEWS AND INFORMATION",GMA NEWS TV
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=33270&extension=ts&play_token=wY4LMv3TMk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5S895p.jpg" group-title="FEITAN: NEWS AND INFORMATION",CNN PHILIPPINES
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXI3ma7.jpg" group-title="FEITAN: NEWS AND INFORMATION",ONE PH
+https://iptv-sniper.herokuapp.com/localtv.php?channel=42
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/489UArk.jpg" group-title="FEITAN: NEWS AND INFORMATION",PTV
+https://ctr-10135-ap-ph.dailymotion-live-mr.qwilted-cds.cqloud.com/sec(vb0ikD3rmZA2RvEN2UsfwJUY4-_yk4GWtGyaAVPzcL-30p9CD5tbi6yFtpPMAWQ0)/dm/3/x5cr6b9/d/live-2.m3u8#cell=qlph1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JaCCD65.jpg" group-title="FEITAN: NEWS AND INFORMATION",TELERADYO
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I106q2t.jpg" group-title="FEITAN: NEWS AND INFORMATION",SUPER RADYO DZBB
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=566e67da543c043f0fe2a5f371412910&key=0b997dec90bda7dd6f8f16d3fc914b6c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxtqSCx.jpg" group-title="FEITAN: NEWS AND INFORMATION",AL JAZEERA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=17d5d79b705851bf7fb32a9021d56d10&key=839ae835984e66772b70621dd5d5318b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRwjaNg.jpg" group-title="FEITAN: NEWS AND INFORMATION",BBC WORLD NEWS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fe5edb836e82f122ab940395cbe10210&key=4fc6c26bdb1df14696ee6e53b0957883
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zoKVrz9.jpg" group-title="FEITAN: NEWS AND INFORMATION",CNA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=98b593ae7d0d2b488eca960db791c010&key=56ef03e88c52b9ea7ea73ea0338f6d89
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ajDlLrm.jpg" group-title="FEITAN: NEWS AND INFORMATION",CNBC
+http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3cb7eb2b786d7587318c42b37e3e5510&key=fcc2c6e8adf5418e35382f77e5ad56ec
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84XrnU1.jpg" group-title="FEITAN: NEWS AND INFORMATION",CNN
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5cd1850280996e9ced09c72027dfdb10&key=3a1d9a18b0d1ffc99ab259e16b3dc5dc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6JtFPBv.jpg" group-title="FEITAN: NEWS AND INFORMATION",DW
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=32732dedac78e80dd81d0af789e5fe10&key=a69d2840788bf0298f1db62c5943b2a1
+#EXTINF:-1 tvg-id="514" tvg-logo="https://i.imgur.com/fXVwNqZ.jpg" group-title="FEITAN: NEWS AND INFORMATION",SKY NEWS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
+
+
+//GENERAL & ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4yQvtsB.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",VIVA CINEMA
+https://iptv-sniper.herokuapp.com/localtv.php?channel=13
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4ySdNn.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",SARI SARI
+http://fortv.cc:8080/live/jsc/jsc/101824.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdyPFCh.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",JEEPNEY TV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=76
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Q486fT7.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT", TAP EDGE
+https://bit.ly/FEITAN-TAP-EDGE
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/HRJJ8Ch.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT", TAP TV
+https://bit.ly/FEITAN-TAP-TV
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/ClH7E9X.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT", TELENOVELA
+http://live.lordstreams.co:8080/Barnes1/Barnes1/567743
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/SeKye7V.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT", CRIME+INVESTIGATION
+http://live.lordstreams.co:8080/Barnes1/Barnes1/92718
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c7fa397ac42a9a4c6375a3653db84710&key=cd6bf0c7a2a8937e0a0431762189149f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qeWWFjJ.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",KIX
+http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoQu5jc.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",AXN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=62
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwIXjDO.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",ROCK ENTERTAINMENT
+https://iptv-sniper.herokuapp.com/localtv.php?channel=56
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8g2AIri.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",ROCK EXTREME
+https://iptv-sniper.herokuapp.com/localtv.php?channel=57
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRfVDHm.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",LIFETIME
+https://iptv-sniper.herokuapp.com/localtv.php?channel=55
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8m2EgWJ.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",TECHSTORM
+https://iptv-sniper.herokuapp.com/localtv.php?channel=78
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2kb2k4x.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",LOTUS MACAU
+https://iptv-sniper.herokuapp.com/localtv.php?channel=91
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0GdOES.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",CLTV 36
+http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8
+
+
+//KIDS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AS5ege1.jpg" group-title="FEITAN: KIDS",ANIMAX
+https://iptv-sniper.herokuapp.com/localtv.php?channel=24
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xevf9q6.jpg" group-title="FEITAN: KIDS",ANIPLUS
+https://tiny.one/FEI-ANIPLUS
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sf7XECD.jpg" group-title="FEITAN: KIDS",CARTOON NETWORK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dac64e0ed7eec1cde6777b7616917710&key=6fcec68baae0c9822b8ec3f29f7cd0bc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJyeTzl.jpg" group-title="FEITAN: KIDS",BOOMERANG
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f5f27fe9eb27df6fc1baf702421edb10&key=3942434ec0c37db16af8908d3b65ad61
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6KQ0TZc.jpg" group-title="FEITAN: KIDS",MOONBUG KIDS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjtaHsT.jpg" group-title="FEITAN: KIDS",NICK JR
+https://iptv-sniper.herokuapp.com/localtv.php?channel=27
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xRBwEJv.jpg" group-title="FEITAN: KIDS",NICKELODEON
+https://iptv-sniper.herokuapp.com/localtv.php?channel=28
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtLYmt.jpg" group-title="FEITAN: KIDS",DREAMWORKS
+https://iptv-sniper.herokuapp.com/localtv.php?channel=23
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mubx6fl.jpg" group-title="FEITAN: KIDS",DISNEY JUNIOR
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
+
+
+//FOREIGN CHANNELS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94JlhVS.jpg" group-title="FEITAN: FOREIGN CHANNEL",GEM TV ASIA
+http://210.210.155.35/uq2663/h/h19/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wStF9sG.jpg" group-title="FEITAN: FOREIGN CHANNEL",NHK WORLD JAPAN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=92
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vddj5ca.jpg" group-title="FEITAN: FOREIGN CHANNEL",FRANCE 24
+https://iptv-sniper.herokuapp.com/localtv.php?channel=95
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5KovvN.jpg" group-title="FEITAN: FOREIGN CHANNEL",ABC AUSTRILIA
+https://iptv-sniper.herokuapp.com/localtv.php?channel=82
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JdLKwl3.jpg" group-title="FEITAN: FOREIGN CHANNEL",TVN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=85
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6U7ZlO.jpg" group-title="FEITAN: FOREIGN CHANNEL",KBS WORLD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=65
+
+//MUSIC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldSXcHi.jpg" group-title="FEITAN: MUSIC",MYX
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K7fnRKH.jpg" group-title="FEITAN: MUSIC",MTV LIVE
+https://iptv-sniper.herokuapp.com/localtv.php?channel=66
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IqsWpz7.jpg" group-title="FEITAN: MUSIC",RJTV
+http://user.scalecdn.co:8080/live/Alfred/Alfred/567722.m3u8
+
+//RELIGIOUS CHANNELS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TA8fE6Z.jpg" group-title="FEITAN: RELIGIOUS CHANNEL",LIFE TV ASIA
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/llNA1aE.jpg" group-title="FEITAN: RELIGIOUS CHANNEL",SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/dlA9cvf.jpg" group-title="FEITAN: RELIGIOUS CHANNEL", GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/4cd4uMQ.jpg" group-title="FEITAN: RELIGIOUS CHANNEL", INC TV
+https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/wgJPBEI.jpg" group-title="FEITAN: RELIGIOUS CHANNEL", LIGHT TV
+http://user.scalecdn.co:8080/live/Alfred/Alfred/567728.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/vuvrzV1.jpg" group-title="FEITAN: RELIGIOUS CHANNEL", UNTV
+http://user.scalecdn.co:8080/live/Alfred/Alfred/567755.m3u8
+
+//YOUTUBE LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/489UArk.jpg" group-title="FEITAN: YOUTUBE LIVE",PTV (YOUTUBE)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JaCCD65.jpg" group-title="FEITAN: YOUTUBE LIVE",TELERADYO (YOUTUBE)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TeleRadyo/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/loGAd6q.jpg" group-title="FEITAN: YOUTUBE LIVE",DZRHNEWS TV (YOUTUBE)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F9u7gsQ.jpg" group-title="FEITAN: YOUTUBE LIVE",TV5 PHILIPPINES (YOUTUBE)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TV5Philippines/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r34hMLp.jpg" group-title="FEITAN: YOUTUBE LIVE",RAFFY TULFO IN ACTION (YOUTUBE)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RaffyTulfoInAction/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vuvrzV1.jpg" group-title="FEITAN: YOUTUBE LIVE",UNTV (YOUTUBE)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/UNTVNewsandRescue/live
+
+//HOME TV SHOPPING
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqslfXa.jpg" group-title="FEITAN: HOME TV SHOPPING",TVSHOP
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w1559981041_b1000000_sleng.m3u8

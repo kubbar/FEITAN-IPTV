@@ -223,6 +223,9 @@ https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=64
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K15zdln.jpg" group-title="FEITAN: EDUCATIONAL AND DOCUMENTARY",NATIONAL GEOGRAPHI WILD
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=51
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3f6P84I.jpg" group-title="FEITAN: EDUCATIONAL AND DOCUMENTARY",OUTDOOR CHANNEL
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=222
+
 
 //NEWS & INFORMATION
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zFOYBXJ.jpg" group-title="FEITAN: NEWS AND INFORMATION",ANC

@@ -19,6 +19,9 @@ http://user.scalecdn.co:8080/live/Alfred/Alfred/546783.m3u8
 #EXTINF:-1 tvg-id="GMAPinoyTVUSACanada.ph" tvg-logo="https://i.imgur.com/2QkjBUo.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA PINOY TV
 http://user.scalecdn.co:8080/live/Alfred/Alfred/546784.m3u8
 
+#EXTINF:-1 tvg-id="KapatidTV5.ph" tvg-logo="https://i.imgur.com/8d2CJkg.jpg" group-title="FEITAN: LOCAL CHANNEL",KAPATID 5
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:AD:7A:B6&stream=31052&extension=ts
+
 #EXTINF:-1, tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/HZQABuh.jpg" group-title="FEITAN: LOCAL CHANNEL", NET 25
 http://user.scalecdn.co:8080/live/Alfred/Alfred/567730.m3u8
 

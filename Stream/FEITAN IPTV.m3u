@@ -1,37 +1,37 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml"
 
 //LOCAL CHANNELS
-#EXTINF:0 tvg-logo="https://i.imgur.com/hhd8QjJ.jpg" group-title="FEITAN: LOCAL CHANNEL", A2Z
+#EXTINF:0 tvg-id="A2ZChannel11.ph" tvg-logo="https://i.imgur.com/hhd8QjJ.jpg" group-title="FEITAN: LOCAL CHANNEL", A2Z
 https://bit.ly/FEITAN-A2Z
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/K5eEqKz.jpg" group-title="FEITAN: LOCAL CHANNEL", KAPAMILYA CHANNEL
+#EXTINF:0 tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/K5eEqKz.jpg" group-title="FEITAN: LOCAL CHANNEL", KAPAMILYA CHANNEL
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=11
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/F9u7gsQ.jpg" group-title="FEITAN: LOCAL CHANNEL",IBA SA 5
+#EXTINF:0 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/F9u7gsQ.jpg" group-title="FEITAN: LOCAL CHANNEL",IBA SA 5
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/orZGgot.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA 7
+#EXTINF:-1 tvg-id="GMATV.ph"  tvg-logo="https://i.imgur.com/orZGgot.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA 7
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=5
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/JSLsN7L.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA LIFE TV
+#EXTINF:0 tvg-id="GMALifeTV.ph" tvg-logo="https://i.imgur.com/JSLsN7L.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA LIFE TV
 http://user.scalecdn.co:8080/live/Alfred/Alfred/546783.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2QkjBUo.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA PINOY TV
+#EXTINF:-1 tvg-id="GMAPinoyTV.ph" tvg-logo="https://i.imgur.com/2QkjBUo.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA PINOY TV
 http://user.scalecdn.co:8080/live/Alfred/Alfred/546784.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/HZQABuh.jpg" group-title="FEITAN: LOCAL CHANNEL", NET 25
+#EXTINF:-1, tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/HZQABuh.jpg" group-title="FEITAN: LOCAL CHANNEL", NET 25
 http://user.scalecdn.co:8080/live/Alfred/Alfred/567730.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/R7GtAsh.jpg" group-title="FEITAN: LOCAL CHANNEL", IBC 13
+#EXTINF:-1, tvg-id="IBC13.ph" tvg-logo="https://i.imgur.com/R7GtAsh.jpg" group-title="FEITAN: LOCAL CHANNEL", IBC 13
 http://user.scalecdn.co:8080/live/Alfred/Alfred/567719.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/P0iQIp8.jpg" group-title="FEITAN: LOCAL CHANNEL", CCTN 47
+#EXTINF:-1, tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/P0iQIp8.jpg" group-title="FEITAN: LOCAL CHANNEL", CCTN 47
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=4
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/RWMn1NG.jpg" group-title="FEITAN: LOCAL CHANNEL", TFC
+#EXTINF:-1, tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/RWMn1NG.jpg" group-title="FEITAN: LOCAL CHANNEL", TFC
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/k7sbIa1.jpg" group-title="FEITAN: LOCAL CHANNEL", PILIPINAS HD
+#EXTINF:-1, tvg-id="PilipinasHD.ph" tvg-logo="https://i.imgur.com/k7sbIa1.jpg" group-title="FEITAN: LOCAL CHANNEL", PILIPINAS HD
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w612733615_b300000_sleng.m3u8
 
 //MOVIES

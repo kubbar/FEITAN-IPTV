@@ -70,15 +70,11 @@ https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=15
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lZuBTyC.jpg" group-title="FEITAN: MOVIES",HBO FAMILY
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2d8d9b7ed94fad6e56f1642504605b10&key=cf881ed230797c106f8e6ac843d797f3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R17c3G5.jpg" group-title="FEITAN: MOVIES",HBO HITS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=228
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z8yst8H.jpg" group-title="FEITAN: MOVIES",HBO SIGNATURE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://stream-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=221
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKP9vwa.jpg" group-title="FEITAN: MOVIES",CINEMAX
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=16
@@ -150,10 +146,13 @@ http://keep-this-private.xyz:8880/play/live.php?mac=00:1A:79:00:32:02&stream=862
 #EXTINF:0 tvg-logo="https://i.imgur.com/kVAe3hI.jpg" group-title="FEITAN: MOVIES",STAR MOVIES SELECT
 http://keep-this-private.xyz:8880/play/live.php?mac=00:1A:79:00:32:02&stream=862741&extension=ts&play_token=k2nmWwea9F
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/wp5UNPA.jpg" group-title="FEITAN: MOVIES",WARNER TV
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=232
+
 
 //SPORTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D82rNDE.jpg" group-title="FEITAN: SPORTS",ONE SPORTS+
-http://hdhd.tk/live/Irons2022/Irons2022/23204.ts
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=236
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMvrFn2.jpg" group-title="FEITAN: SPORTS",ONE SPORTS
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=50
@@ -287,51 +286,51 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 
 
 //GENERAL & ENTERTAINMENT
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4yQvtsB.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",VIVA CINEMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4yQvtsB.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",VIVA CINEMA
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=13
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W4ySdNn.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",SARI SARI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4ySdNn.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",SARI SARI
 http://fortv.cc:8080/live/jsc/jsc/101824.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RdyPFCh.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",JEEPNEY TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdyPFCh.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",JEEPNEY TV
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=76
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/Q486fT7.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT", TAP EDGE
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Q486fT7.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT", TAP EDGE
 https://bit.ly/FEITAN-TAP-EDGE
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/HRJJ8Ch.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT", TAP TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/HRJJ8Ch.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT", TAP TV
 https://bit.ly/FEITAN-TAP-TV
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/ClH7E9X.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT", TELENOVELA
+#EXTINF:-1, tvg-logo="https://i.imgur.com/ClH7E9X.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT", TELENOVELA
 http://live.lordstreams.co:8080/Barnes1/Barnes1/567743
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/SeKye7V.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT", CRIME+INVESTIGATION
+#EXTINF:-1, tvg-logo="https://i.imgur.com/SeKye7V.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT", CRIME+INVESTIGATION
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=35
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c7fa397ac42a9a4c6375a3653db84710&key=cd6bf0c7a2a8937e0a0431762189149f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qeWWFjJ.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",KIX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qeWWFjJ.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",KIX
 http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eoQu5jc.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",AXN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoQu5jc.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",AXN
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=62
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OwIXjDO.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwIXjDO.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",ROCK ENTERTAINMENT
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=56
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8g2AIri.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",ROCK EXTREME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8g2AIri.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",ROCK EXTREME
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=57
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRfVDHm.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",LIFETIME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRfVDHm.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",LIFETIME
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=55
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8m2EgWJ.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",TECHSTORM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8m2EgWJ.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",TECHSTORM
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=78
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2kb2k4x.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",LOTUS MACAU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2kb2k4x.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",LOTUS MACAU
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=91
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S0GdOES.jpg" group-title="FEITAN: GENERAL AND ENTERTAINMENT",CLTV 36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0GdOES.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",CLTV 36
 http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8
 
 

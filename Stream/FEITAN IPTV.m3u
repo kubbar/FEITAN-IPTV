@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml"
 
 //LOCAL CHANNELS
 #EXTINF:0 tvg-id="A2ZChannel11.ph" tvg-logo="https://i.imgur.com/hhd8QjJ.jpg" group-title="FEITAN: LOCAL CHANNEL", A2Z
@@ -16,7 +16,7 @@ https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=5
 #EXTINF:0 tvg-id="GMALifeTV.ph" tvg-logo="https://i.imgur.com/JSLsN7L.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA LIFE TV
 http://user.scalecdn.co:8080/live/Alfred/Alfred/546783.m3u8
 
-#EXTINF:-1 tvg-id="GMAPinoyTV.ph" tvg-logo="https://i.imgur.com/2QkjBUo.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA PINOY TV
+#EXTINF:-1 tvg-id="GMAPinoyTVAsiaPacific.ph" tvg-logo="https://i.imgur.com/2QkjBUo.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA PINOY TV
 http://user.scalecdn.co:8080/live/Alfred/Alfred/546784.m3u8
 
 #EXTINF:-1, tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/HZQABuh.jpg" group-title="FEITAN: LOCAL CHANNEL", NET 25

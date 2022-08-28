@@ -4,8 +4,8 @@
 #EXTINF:0 tvg-id="A2ZChannel11.ph" tvg-logo="https://i.imgur.com/hhd8QjJ.jpg" group-title="FEITAN: LOCAL CHANNEL", A2Z
 https://bit.ly/FEITAN-A2Z
 
-#EXTINF:0 tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/K5eEqKz.jpg" group-title="FEITAN: LOCAL CHANNEL", KAPAMILYA CHANNEL
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=11
+#EXTINF:0 tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/K5eEqKz.jpg" group-title="FEITAN: LOCAL CHANNEL", KAPAMILYA CHANNEL ONLINE
+https://channel.feitantv.workers.dev/stream/abscbnentertainment/master.m3u8
 
 #EXTINF:0 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/F9u7gsQ.jpg" group-title="FEITAN: LOCAL CHANNEL",IBA SA 5
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=8

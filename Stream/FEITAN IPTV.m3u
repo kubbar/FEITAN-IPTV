@@ -5,13 +5,13 @@
 https://bit.ly/FEITAN-A2Z
 
 #EXTINF:0 tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/K5eEqKz.jpg" group-title="FEITAN: LOCAL CHANNEL", KAPAMILYA CHANNEL ONLINE
-https://channel.feitantv.workers.dev/stream/abscbnentertainment/master.m3u8
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 
 #EXTINF:0 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/F9u7gsQ.jpg" group-title="FEITAN: LOCAL CHANNEL",IBA SA 5
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=8
 
 #EXTINF:-1 tvg-id="GMATV.ph"  tvg-logo="https://i.imgur.com/orZGgot.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA 7
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=5
+http://dmtn.tv:8080/play/_2QOr27LB-QLALpzQgGGZGwmLnaC1JFygdnYJ4RK6U-WADQew3hecSZ-wn-iMmQqa_oZLNtM36mNf-l0nubMECT1nlMd1CT_idbmuYrkK1jMmiQqLHmoo7Nuj1U3urpp_XGsiR7rFRbq4roDe-PMwsAYziZLmqsA_GsOy5cM_ls
 
 #EXTINF:0 tvg-id="GMALifeTV.ph" tvg-logo="https://i.imgur.com/JSLsN7L.jpg" group-title="FEITAN: LOCAL CHANNEL",GMA LIFE TV
 http://user.scalecdn.co:8080/live/Alfred/Alfred/546783.m3u8
@@ -39,7 +39,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w6
 
 //MOVIES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k5Gw6hw.jpg" group-title="FEITAN: MOVIES",CINEMA ONE
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=14
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XUpH8cQ.jpg" group-title="FEITAN: MOVIES",PBO
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=12
@@ -164,7 +164,7 @@ https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=31
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=18
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3oKpKiC.jpg" group-title="FEITAN: SPORTS",NBA PHILIPPINES
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=82
+http://dmtn.tv:8080/play/_2QOr27LB-QLALpzQgGGZGwmLnaC1JFygdnYJ4RK6U-WADQew3hecSZ-wn-iMmQqa_oZLNtM36mNf-l0nubMECT1nlMd1CT_idbmuYrkK1juDz1hm6RZzjEqCmGSjeBsgste1Oc9zkAQH_vGf3TfpUidvrIqK7EX88aU2Ymuoj4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TiAyjUE.jpg" group-title="FEITAN: SPORTS",NBA TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=115738&extension=ts&play_token=1abiaJReWZ
@@ -229,7 +229,7 @@ https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=222
 
 //NEWS & INFORMATION
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zFOYBXJ.jpg" group-title="FEITAN: NEWS AND INFORMATION",ANC
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=37
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9ZTaTB.jpg" group-title="FEITAN: NEWS AND INFORMATION",GTV
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=7
@@ -238,7 +238,7 @@ https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=7
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=33270&extension=ts&play_token=wY4LMv3TMk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5S895p.jpg" group-title="FEITAN: NEWS AND INFORMATION",CNN PHILIPPINES
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=10
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXI3ma7.jpg" group-title="FEITAN: NEWS AND INFORMATION",ONE PH
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=42
@@ -247,7 +247,7 @@ https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=42
 https://ctr-10135-ap-ph.dailymotion-live-mr.qwilted-cds.cqloud.com/sec(vb0ikD3rmZA2RvEN2UsfwJUY4-_yk4GWtGyaAVPzcL-30p9CD5tbi6yFtpPMAWQ0)/dm/3/x5cr6b9/d/live-2.m3u8#cell=qlph1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JaCCD65.jpg" group-title="FEITAN: NEWS AND INFORMATION",TELERADYO
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=41
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I106q2t.jpg" group-title="FEITAN: NEWS AND INFORMATION",SUPER RADYO DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
@@ -289,6 +289,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 
 
 //GENERAL & ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kAymsAc.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",BUKO CHANNEL
+http://dmtn.tv:8080/play/_2QOr27LB-QLALpzQgGGZGwmLnaC1JFygdnYJ4RK6U-WADQew3hecSZ-wn-iMmQqa_oZLNtM36mNf-l0nubMECT1nlMd1CT_idbmuYrkK1gmoHH-DIhXQVI467ElzTWvm_Y8TYaRdd6Dw_EgWQeFOVgbva2Tg6VcN6KRsa0Zgmk
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4yQvtsB.jpg" group-title="FEITAN: GENERAL ENTERTAINMENT",VIVA CINEMA
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=13
 
@@ -387,9 +390,12 @@ https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=85
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6U7ZlO.jpg" group-title="FEITAN: FOREIGN CHANNEL",KBS WORLD
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W6k7F9v.jpg" group-title="FEITAN: FOREIGN CHANNEL",K+
+http://dmtn.tv:8080/play/_2QOr27LB-QLALpzQgGGZGwmLnaC1JFygdnYJ4RK6U-WADQew3hecSZ-wn-iMmQqa_oZLNtM36mNf-l0nubMECT1nlMd1CT_idbmuYrkK1gI9FMwnhc_F085U3B1ZpNlEjRw4oOhQ-V_wUcB9gL9H6jwM97Lab8BW9Y7cN_IHUI
+
 //MUSIC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldSXcHi.jpg" group-title="FEITAN: MUSIC",MYX
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=75
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K7fnRKH.jpg" group-title="FEITAN: MUSIC",MTV LIVE
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=66
@@ -422,6 +428,9 @@ http://user.scalecdn.co:8080/live/Alfred/Alfred/567755.m3u8
 //HOME TV SHOPPING
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HqslfXa.jpg" group-title="FEITAN: HOME TV SHOPPING",TVSHOP
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w1559981041_b1000000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqslfXa.jpg" group-title="FEITAN: HOME TV SHOPPING",EZ SHOP
+http://dmtn.tv:8080/play/_2QOr27LB-QLALpzQgGGZGwmLnaC1JFygdnYJ4RK6U-WADQew3hecSZ-wn-iMmQqa_oZLNtM36mNf-l0nubMECT1nlMd1CT_idbmuYrkK1ik_XRBfzigsmJcmC5anaow-g-wOsQm0L5qML8YJtXtnj_ouFTbfeYxV75y9qQQ7DE
 
 //YOUTUBE LIVE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/489UArk.jpg" group-title="FEITAN: YOUTUBE LIVE",PTV (YOUTUBE)

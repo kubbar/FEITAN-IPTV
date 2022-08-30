@@ -164,13 +164,16 @@ http://103.105.213.251:8443/live/RX5KlkfmIvgPs3YnbTPDcw/1661926854/31.m3u8
 http://103.105.213.251:8443/live/RX5KlkfmIvgPs3YnbTPDcw/1661926854/18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3oKpKiC.jpg" group-title="FEITAN: SPORTS",NBA PHILIPPINES
-http://dmtn.tv:8080/play/_2QOr27LB-QLALpzQgGGZGwmLnaC1JFygdnYJ4RK6U-WADQew3hecSZ-wn-iMmQqa_oZLNtM36mNf-l0nubMECT1nlMd1CT_idbmuYrkK1juDz1hm6RZzjEqCmGSjeBsgste1Oc9zkAQH_vGf3TfpUidvrIqK7EX88aU2Ymuoj4
+http://103.105.213.251:8443/live/RX5KlkfmIvgPs3YnbTPDcw/1661926854/82.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TiAyjUE.jpg" group-title="FEITAN: SPORTS",NBA TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=115738&extension=ts&play_token=1abiaJReWZ
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/SV9zY4t.jpg" group-title="FEITAN: SPORTS", NBA TV CANADA
 http://live.lordstreams.co:8080/Barnes1/Barnes1/3092
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/sxVB1g6.jpg" group-title="FEITAN: SPORTS", PBA RUSH
+http://dmtn.tv:8080/play/_2QOr27LB-QLALpzQgGGZGwmLnaC1JFygdnYJ4RK6U-WADQew3hecSZ-wn-iMmQqa_oZLNtM36mNf-l0nubMECT1nlMd1CT_idbmuYrkK1juDz1hm6RZzjEqCmGSjeBsgste1Oc9zkAQH_vGf3TfpUidvrIqK7EX88aU2Ymuoj4
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/sxVB1g6.jpg" group-title="FEITAN: SPORTS", PBA RUSH (LIVE ONLY)
 https://live.chimerako.com/hls/pba_stream_480.m3u8
